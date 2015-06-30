@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/zloyrim/Projects/CSC131_grading/grade_hw5/testout'
+let g:netrw_dirhist_2='/home/akostyuchenko/.kde/share/config'
+let g:netrw_dirhist_3='/home/akostyuchenko/Projects/synapse-data-migration-tools/Talend_Projects/SYNAPSE_WESS_TEST_SYNC_PRE_API/.metadata'
+let g:netrw_dirhist_4='/home/akostyuchenko/Projects/synapse-data-migration-tools/Talend_Projects/.metadata'
+let g:netrw_dirhist_5='/home/akostyuchenko/talend-logs'
+let g:netrw_dirhist_6='/var/log/logstash-forwarder'
